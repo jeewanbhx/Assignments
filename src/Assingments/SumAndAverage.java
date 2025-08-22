@@ -15,6 +15,7 @@ public class SumAndAverage {
 
         //calculate the sum of the two numbers.
         double sum = num1 + num2;
+        //Calculate the Average of the two numbers.
         double avg = sum /2;
         }
 
